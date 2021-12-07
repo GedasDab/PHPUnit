@@ -1,0 +1,1 @@
+C:37:"PHPUnit\Runner\DefaultTestResultCache":245:{a:2:{s:7:"defects";a:2:{s:7:"Warning";i:6;s:43:"OrderTest::testOrderIsProcessedUsingMockery";i:4;}s:5:"times";a:3:{s:31:"OrderTest::testOrderIsProcessed";d:0.037;s:7:"Warning";d:0.005;s:43:"OrderTest::testOrderIsProcessedUsingMockery";d:0.036;}}}

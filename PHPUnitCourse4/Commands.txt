@@ -1,0 +1,16 @@
+1) Install phpUnit - composer require --dev phpunit/phpunit
+2) Autoload        - composer dump-autoload
+3) Alias           - alias phpunit="./vendor/phpunit/phpunit/phpunit" then works with phpUnit
+
+4) phpunit.xml:
+<?xml version="1.0" encoding="UTF-8"?>
+<phpunit  
+	verbose="true" 
+	colors="true"
+	bootstrap="vendor/autoload.php">
+	<testsuites>
+		<testsuite name="Test suite">
+			<directory>tests</directory>
+		</testsuite>
+	</testsuites>
+</phpunit>

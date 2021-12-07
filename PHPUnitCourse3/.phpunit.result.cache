@@ -1,0 +1,1 @@
+C:37:"PHPUnit\Runner\DefaultTestResultCache":210:{a:2:{s:7:"defects";a:1:{s:41:"OrderTest::testOrderIsProcessedUsingAMock";i:5;}s:5:"times";a:2:{s:41:"OrderTest::testOrderIsProcessedUsingAMock";d:0.044;s:40:"OrderTest::testOrderIsProcessedUsingASpy";d:0.002;}}}
